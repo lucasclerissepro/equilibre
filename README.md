@@ -5,8 +5,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=active+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=resolved+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)
 
 
 <!-- PROJECT LOGO -->
@@ -246,16 +246,16 @@ We aim not to target exclusively Kubernetes but any type of runtime, we are buil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lucasclerissepro/qurve.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/lucasclerissepro/qurve.svg?
 [contributors-url]: https://github.com/lucasclerissepro/qurve/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lucasclerissepro/qurve.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/lucasclerissepro/qurve.svg?
 [forks-url]: https://github.com/lucasclerissepro/qurve/network/members
-[stars-shield]: https://img.shields.io/github/stars/lucasclerissepro/qurve.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/lucasclerissepro/qurve.svg?
 [stars-url]: https://github.com/lucasclerissepro/qurve/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lucasclerissepro/qurve.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/lucasclerissepro/qurve.svg?
 [issues-url]: https://github.com/lucasclerissepro/qurve/issues
-[license-shield]: https://img.shields.io/github/license/lucasclerissepro/qurve.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/lucasclerissepro/qurve.svg?
 [license-url]: https://github.com/lucasclerissepro/qurve/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucasclerisse
 [product-screenshot]: images/screenshot.png
