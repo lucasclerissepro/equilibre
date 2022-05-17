@@ -12,10 +12,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lucasclerissepro/qurve">
-    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.png#gh-dark-mode-only" alt="Logo" width="120" height="120">
-    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.png#gh-light-mode-only" alt="Logo" width="120" height="120">
-  </a>
+
+![](https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_light.svg#gh-light-mode-only)
 
   <p align="center">
     Abstracting software delivery
@@ -23,6 +22,7 @@
     <a href="https://github.com/lucasclerissepro/qurve"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    
     <a href="https://github.com/lucasclerissepro/qurve">View Demo</a>
     ·
     <a href="https://github.com/lucasclerissepro/qurve/issues">Report Bug</a>
