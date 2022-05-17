@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -27,6 +26,7 @@
     <a href="https://github.com/lucasclerissepro/qurve/issues">Request Feature</a>
   </p>
 </div>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -243,16 +243,16 @@ We aim not to target exclusively Kubernetes but any type of runtime, we are buil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lucasclerissepro/qurve.svg?
+[contributors-shield]: https://img.shields.io/github/contributors/lucasclerissepro/qurve.svg?style=for-the-badge
 [contributors-url]: https://github.com/lucasclerissepro/qurve/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lucasclerissepro/qurve.svg?
+[forks-shield]: https://img.shields.io/github/forks/lucasclerissepro/qurve.svg?style=for-the-badge
 [forks-url]: https://github.com/lucasclerissepro/qurve/network/members
-[stars-shield]: https://img.shields.io/github/stars/lucasclerissepro/qurve.svg?
+[stars-shield]: https://img.shields.io/github/stars/lucasclerissepro/qurve.svg?style=for-the-badge
 [stars-url]: https://github.com/lucasclerissepro/qurve/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lucasclerissepro/qurve.svg?
+[issues-shield]: https://img.shields.io/github/issues/lucasclerissepro/qurve.svg?style=for-the-badge
 [issues-url]: https://github.com/lucasclerissepro/qurve/issues
-[license-shield]: https://img.shields.io/github/license/lucasclerissepro/qurve.svg?
+[license-shield]: https://img.shields.io/github/license/lucasclerissepro/qurve.svg?style=for-the-badge
 [license-url]: https://github.com/lucasclerissepro/qurve/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucasclerisse
 [product-screenshot]: images/screenshot.png
