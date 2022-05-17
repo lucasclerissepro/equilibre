@@ -13,8 +13,8 @@
 <br />
 <div align="center">
 
-![](https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_light.svg#gh-light-mode-only)
+   <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.svg#gh-dark-mode-only" alt="logo"/>
+   <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_light.svg#gh-light-mode-only" alt="logo"/>
 
   <p align="center">
     Abstracting software delivery
