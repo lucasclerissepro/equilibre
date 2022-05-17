@@ -22,7 +22,6 @@
     <a href="https://github.com/lucasclerissepro/qurve"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    
     <a href="https://github.com/lucasclerissepro/qurve">View Demo</a>
     ·
     <a href="https://github.com/lucasclerissepro/qurve/issues">Report Bug</a>
