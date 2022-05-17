@@ -1,13 +1,5 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=active+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)
-[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=resolved+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,6 +22,14 @@
   </p>
 </div>
 
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=active+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)  
+[![DeepSource](https://deepsource.io/gh/lucasclerissepro/qurve.svg/?label=resolved+issues&show_trend=true&token=2qXQpK7haXLSGXNiuSfI294M)](https://deepsource.io/gh/lucasclerissepro/qurve/?ref=repository-badge)
 
 
 <!-- TABLE OF CONTENTS -->
