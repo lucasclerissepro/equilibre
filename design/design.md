@@ -16,3 +16,19 @@ You must be aware of our terminology so you know where to look at:
 - [**Qurvefile**](#qurvefile): A declarative file containing all the specs for a given service/resource.
 - [**Qurve**](#qurve): A qurve is a self-contained artifact that can be consumed by the `Qurve engine` to converge.
 - [**Qurve Engine**](#engine): Ingest a `qurve` and converge.
+
+### Atom
+
+An atom is a deployable single-unit, for example it could be a container in the context of Kubernetes, it could be
+a Serverless function or more...
+An atom is described in a declarative and agnostic way, instead of saying:
+
+- I want a Kubernetes pod
+- I want a Kubernetes deployment
+- I want an AWS Lambda
+
+You say:
+
+- I want a serverless runtime
+- I want my atom to be monitored
+- I want my atom to auto scale
