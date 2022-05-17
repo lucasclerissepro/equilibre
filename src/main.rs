@@ -22,7 +22,7 @@ mod tests {
 
 fn main() {
     let cli = CLI {
-        name: "Lucas".to_string()
+        name: "Lucas".to_string(),
     };
 
     println!("Hello, {}", cli);
