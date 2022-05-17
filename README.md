@@ -69,6 +69,11 @@ to care about low level primitives like pods or deployments. Instead, your SRE t
 
 We aim not to target exclusively Kubernetes but any type of runtime, we are building the engine, you modify it to your needs.
 
+## Design
+
+All the design process and documentation can be found in `design` folder.
+An interactive **C4 model** is available [here](https://s.icepanel.io/B24v0yggCx).
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [//]: # ()
