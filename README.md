@@ -13,11 +13,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/lucasclerissepro/qurve">
-    <img src=".github/light_logo.png#gh-dark-mode-only" alt="Logo" width="80" height="80">
-    <img src=".github/dark_logo.png#gh-light-mode-only" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.png#gh-dark-mode-only" alt="Logo" width="120" height="120">
+    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_dark.png#gh-light-mode-only" alt="Logo" width="120" height="120">
   </a>
-
-<h3 align="center">Qurve</h3>
 
   <p align="center">
     Abstracting software delivery
