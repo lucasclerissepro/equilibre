@@ -63,11 +63,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Qurve focuses on abstracting infrastructure when delivering software. Kubernetes is great but as a developer you shouldn't have
-to care about low level primitives like pods or deployments. Instead, your SRE team should codify what is a microservice and you should
-**consume this abstraction** - this is exactly the scope of this project.
+Qurve is a set of solutions aiming to provide a complete SRE experience for cloud-native projects.
+Solutions are focusing on:
 
-We aim not to target exclusively Kubernetes but any type of runtime, we are building the engine, you modify it to your needs.
+- Reliability
+- Self-service
+- Fast software delivery
 
 ## Design
 
