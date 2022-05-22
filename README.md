@@ -17,7 +17,7 @@
    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_light.svg#gh-light-mode-only" alt="logo" width="180"/>
 
   <p align="center">
-    Abstracting software delivery
+    Reliability platform for SREs and happy developers
     <br />
     <a href="https://github.com/lucasclerissepro/qurve"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,17 +63,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Qurve is a set of solutions aiming to provide a complete SRE experience for cloud-native projects.
-Solutions are focusing on:
+Equilibre (pronounced __/e.ki.libʁ/__, means "balance" in french) is a project aimed at making your infrastructure and software extra reliable by introducing:
 
-- Reliability
-- Self-service
-- Fast software delivery
+- First class support for SLI/SLO/SLA.
+- Auto-remediation.
+- Smart remediation selection based on tags / context.
+- Alerting.
+- Simplified developer experience through recommendations and vizualisation.
+- Manual playbook triggered from the comfort of your phone/email/slack.
+- Report generation.
+- Write remediations in familiar language (WASM modules).
+
+Scalable by nature, Equilibre can be deployed in multiple clusters and "federated" (think prometheus).
+
+To understand more visit the [documentation](https://lucasclerisse.dev/equilibre/docs).
 
 ## Design
 
 All the design process and documentation can be found in `design` folder.
-An interactive **C4 model** is available [here](https://s.icepanel.io/B24v0yggCx).
+An interactive **C4 model** is available [here](https://s.icepanel.io/let3lV2Qwi)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
