@@ -17,7 +17,7 @@
    <img src="https://raw.githubusercontent.com/lucasclerissepro/qurve/main/.github/logo_light.svg#gh-light-mode-only" alt="logo" width="180"/>
 
   <p align="center">
-    Reliability platform for SREs and happy developers
+    The reliability as a service platform
     <br />
     <a href="https://github.com/lucasclerissepro/qurve"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,18 +63,35 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Equilibre (pronounced __/e.ki.libʁ/__, means "balance" in french) is a project aimed at making your infrastructure and software extra reliable by introducing:
+Equilibre (pronounced __/e.ki.libʁ/__, means "balance" in french) is a project aimed at making your 
+software extra reliable and promote a reliability culture within your organization.
 
-- First class support for SLI/SLO/SLA.
-- Auto-remediation.
-- Smart remediation selection based on tags / context.
-- Alerting.
-- Simplified developer experience through recommendations and vizualisation.
-- Manual playbook triggered from the comfort of your phone/email/slack.
-- Report generation.
-- Write remediations in familiar language (WASM modules).
+The whole project is based around the idea of [equilibrium](https://en.wiktionary.org/wiki/equilibrium), when your SLI/SLO are going south
+Equilibre will try to use your contrainsts and remediation to experiments and discover a fix as soon as possible. 
 
-Scalable by nature, Equilibre can be deployed in multiple clusters and "federated" (think prometheus).
+In a way you could call it a learning process since Equilibre is **learning** how to run your service
+the best way possible.
+
+### As an SRE
+
+- You define new remediations.
+- You create "reliability packages" which developers can subscribe their service to.
+
+### As a developer 
+
+- You register your service for reliability.
+- You specify a list of constraints and limits.
+- You specify some possible remediation (create new ones if needed).
+
+You can then consult:
+
+- SLI/SLO for your service.
+- Correlate releases with SLO.
+- Recommendations.
+- Forecasting.
+- Current equilibrium.
+
+## Documentation
 
 To understand more visit the [documentation](https://lucasclerisse.dev/equilibre/docs).
 
