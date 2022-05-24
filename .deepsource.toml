@@ -1,12 +1,12 @@
 version = 1
 
 [[analyzers]]
-name = "rust"
+name = "go"
 enabled = true
 
   [analyzers.meta]
-  msrv = "1.30.0"
+  import_root = "github.com/lucasclerissepro/equilibre"
 
 [[transformers]]
-name = "rustfmt"
+name = "gofumpt"
 enabled = true
